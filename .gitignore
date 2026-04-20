@@ -1,6 +1,9 @@
 # Build output
 QuickPaste.exe
+QuickDailyPaste.exe
 QuickPaste.zip
+QuickDailyPaste.zip
+*.sha256
 
 # Config (user-specific)
 snippets.json
