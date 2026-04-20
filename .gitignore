@@ -1,0 +1,14 @@
+# Build output
+QuickPaste.exe
+QuickPaste.zip
+
+# Config (user-specific)
+snippets.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temp
+*.tmp
+*.log
